@@ -1,2 +1,2 @@
-# unity_hand
+# unity
 unity serial input from Arduino
